@@ -1,0 +1,59 @@
+
+#filtroProducto{
+    height: 30px;
+    width: 350px;
+    margin: 1rem;
+    border: black solid 1px;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+
+.textoForm{
+    font-size:13px;
+    margin: 1px;
+}
+.textDatos{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.font{
+    font-weight: bold;
+}
+
+#totalCarrito{
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.btnCarrito{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.inpPedidos{
+    margin: 5px;
+    height: 2rem;
+    width: 50%;
+}
+
+
+#provFiltro{
+    
+    margin: 5px;
+    height: 2rem;
+    width: 50%;
+}
+#munFiltro{
+   
+    margin: 5px;
+    height: 2rem;
+    width: 50%;
+}
+
